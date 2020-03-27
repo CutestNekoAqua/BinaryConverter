@@ -11,4 +11,8 @@
 
 // TODO: Fügen Sie hier Header hinzu, die vorkompiliert werden sollen.
 
+void convertbinarytodecimal();
+void menu();
+void convertdecimaltobinary();
+
 #endif //PCH_H

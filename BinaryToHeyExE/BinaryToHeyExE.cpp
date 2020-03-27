@@ -4,7 +4,7 @@
 
 #include "pch.h"
 #include <iostream>
-#include <xtgmath.h>
+#include <cmath>
 #include <limits>
 
 using namespace std;

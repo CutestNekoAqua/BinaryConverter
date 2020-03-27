@@ -7,7 +7,7 @@ file(GLOB_RECURSE sources      BinaryToHeyExE/*.cpp BinaryToHeyExE/*.h)
 
 add_executable(BinaryConverter ${sources})
 
-install(TARGETS (BinaryConverter DESTINATION build)
+install(TARGETS BinaryConverter DESTINATION build)
 
 # now comes everything we need, to create a package
 # there are a lot more variables you can set, and some

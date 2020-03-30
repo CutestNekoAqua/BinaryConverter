@@ -8,9 +8,6 @@
 #include <cmath>
 #include <limits>
 #include <fstream>
-#include <stdlib.h>
-#include <tchar.h>
-#include <stdio.h>
 #include <string>
 
 using namespace std;

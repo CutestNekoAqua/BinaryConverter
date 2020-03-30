@@ -152,6 +152,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryToHeyExE.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>

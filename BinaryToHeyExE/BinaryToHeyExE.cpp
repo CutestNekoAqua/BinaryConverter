@@ -9,11 +9,9 @@
 #include <limits>
 #include <fstream>
 #include <stdlib.h>
-#include <conio.h>
 #include <tchar.h>
 #include <stdio.h>
 #include <string>
-#include <conio.h>
 
 using namespace std;
 
